@@ -14,7 +14,6 @@
 		D0FB4C281AD5FC88005D46B6 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D0FB4C271AD5FC88005D46B6 /* Images.xcassets */; };
 		D0FB4C2B1AD5FC88005D46B6 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = D0FB4C291AD5FC88005D46B6 /* LaunchScreen.xib */; };
 		D0FB4C371AD5FC88005D46B6 /* sumaTests.m in Sources */ = {isa = PBXBuildFile; fileRef = D0FB4C361AD5FC88005D46B6 /* sumaTests.m */; };
-		D0FB4C421AD5FD43005D46B6 /* SumaViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D0FB4C411AD5FD43005D46B6 /* SumaViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -41,8 +40,6 @@
 		D0FB4C301AD5FC88005D46B6 /* sumaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = sumaTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D0FB4C351AD5FC88005D46B6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D0FB4C361AD5FC88005D46B6 /* sumaTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = sumaTests.m; sourceTree = "<group>"; };
-		D0FB4C401AD5FD43005D46B6 /* SumaViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SumaViewController.h; sourceTree = "<group>"; };
-		D0FB4C411AD5FD43005D46B6 /* SumaViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SumaViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -92,8 +89,6 @@
 				D0FB4C271AD5FC88005D46B6 /* Images.xcassets */,
 				D0FB4C291AD5FC88005D46B6 /* LaunchScreen.xib */,
 				D0FB4C1A1AD5FC88005D46B6 /* Supporting Files */,
-				D0FB4C401AD5FD43005D46B6 /* SumaViewController.h */,
-				D0FB4C411AD5FD43005D46B6 /* SumaViewController.m */,
 			);
 			path = suma;
 			sourceTree = "<group>";
@@ -224,7 +219,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D0FB4C421AD5FD43005D46B6 /* SumaViewController.m in Sources */,
 				D0FB4C231AD5FC88005D46B6 /* ViewController.m in Sources */,
 				D0FB4C201AD5FC88005D46B6 /* AppDelegate.m in Sources */,
 				D0FB4C1D1AD5FC88005D46B6 /* main.m in Sources */,

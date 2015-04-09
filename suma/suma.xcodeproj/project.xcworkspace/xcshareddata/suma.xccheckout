@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>15220A8C-A85F-46BB-85A3-DAB84B92A949</string>
+	<key>IDESourceControlProjectName</key>
+	<string>suma</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8E03E33659A973B77236EA2AC85ECA83F45FBD3C</key>
+		<string>https://github.com/ioscr/sumadora.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>suma/suma.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8E03E33659A973B77236EA2AC85ECA83F45FBD3C</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ioscr/sumadora.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8E03E33659A973B77236EA2AC85ECA83F45FBD3C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8E03E33659A973B77236EA2AC85ECA83F45FBD3C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>sumadora</string>
+		</dict>
+	</array>
+</dict>
+</plist>
